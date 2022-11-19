@@ -90,7 +90,7 @@ You can use the website to generate badges: https://shields.io/
 
 <img align="right" alt="GIF" height="200px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 
- <h3 align="left">♥️:| Music Player 🎵<h3/>
+<h3 align="left"><strong>♥️:| MUIC PLAYER 🎵<strong/> <h3/>
 
 ###### [![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com)
 
