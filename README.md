@@ -63,7 +63,7 @@ You can use the website to generate badges: https://shields.io/
 
 - ## GITHUB ACTIVITY 🔐
 
-![Metrics](https://metrics.lecoq.io/tashithmanuka2006?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=SriLankaStandardTime%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/tashithmanuka2006?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
 
 <br/>
 
