@@ -31,7 +31,7 @@ You can use the website to generate badges: https://shields.io/
 
 - 💬 Ask me about I am happy ♥️ 
 
-- 📫 How to reach me tashithmanuka2006@gmail.com
+- 📫 How to reach me [Mail](tashithmanuka2006@gmail.com)
 
 - ⚡️ Fun fact Stil Student.
 
